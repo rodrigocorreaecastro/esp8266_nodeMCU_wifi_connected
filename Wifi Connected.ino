@@ -10,6 +10,7 @@ char* pass_aux = "yourpassword"; //coloque aqui a senha da rede principal que se
 //Define contador igual a zero
 int count = 0;
 
+//Led placa
 int pin = 2;
 
 void setup()
